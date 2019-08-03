@@ -5,6 +5,7 @@
 <head>
     <title>Accueil</title>
     <link rel="stylesheet" type="text/css" href="css.css">
+    <link rel="icon" type="image/png" href="images/thanos.png" />
 </head>
 
 <body>
